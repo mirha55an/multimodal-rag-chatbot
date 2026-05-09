@@ -43,7 +43,7 @@ Upload any PDF, ask questions in natural language, and optionally attach an imag
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multimodal-rag-chatbot.git
+git clone https://github.com/mirha55an/multimodal-rag-chatbot.git
 cd multimodal-rag-chatbot
 ```
 
