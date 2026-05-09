@@ -3,4 +3,3 @@ chroma_db/
 venv/
 __pycache__/
 *.pyc
-assets/screenshot.png
