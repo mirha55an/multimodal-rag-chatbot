@@ -29,7 +29,7 @@ Upload any PDF, ask questions in natural language, and optionally attach an imag
 
 | Layer         | Technology                   |
 | ------------- | ---------------------------- |
-| LLM & Vision  | Google Gemini 2.0 Flash Lite |
+| LLM & Vision  | Google Gemini 2.5 Flash Lite |
 | Embeddings    | Google Gemini Embedding 001  |
 | Vector Store  | ChromaDB                     |
 | RAG Framework | LangChain                    |
